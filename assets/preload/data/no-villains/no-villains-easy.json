@@ -1,109 +1,6 @@
 {
 	"song": {
 		"player1": "bfTroll",
-		"events": [
-			[
-				0,
-				[
-					[
-						"Image Flash",
-						"no-villains",
-						"3"
-					]
-				]
-			],
-			[
-				63300,
-				[
-					[
-						"Change Character",
-						"1",
-						"sonic_mad"
-					]
-				]
-			],
-			[
-				65700,
-				[
-					[
-						"Change Character",
-						"1",
-						"sonic"
-					]
-				]
-			],
-			[
-				86400,
-				[
-					[
-						"Change Character",
-						"1",
-						"sonic_mad"
-					]
-				]
-			],
-			[
-				105600,
-				[
-					[
-						"Change Character",
-						"1",
-						"sonic_forced"
-					]
-				]
-			],
-			[
-				124792.5,
-				[
-					[
-						"Change Character",
-						"1",
-						"sonic_mad"
-					]
-				]
-			],
-			[
-				124800,
-				[
-					[
-						"Add Camera Zoom",
-						"0.025",
-						"0.10"
-					]
-				]
-			],
-			[
-				133200,
-				[
-					[
-						"Add Camera Zoom",
-						"",
-						""
-					]
-				]
-			],
-			[
-				134400,
-				[
-					[
-						"Add Camera Zoom",
-						"0.025",
-						"0.10"
-					]
-				]
-			],
-			[
-				142800,
-				[
-					[
-						"Add Camera Zoom",
-						"",
-						""
-					]
-				]
-			]
-		],
-		"gfVersion": "gfTroll",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -10095,34 +9992,6 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"altAnim": false,
-				"bpm": 200,
-				"changeBPM": false,
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 200
-			},
-			{
-				"gfSection": false,
-				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
@@ -10132,7 +10001,7 @@
 			}
 		],
 		"player2": "sonic",
-		"player3": null,
+		"player3": "gfTroll",
 		"initialSpeed": 1.35,
 		"sliderVelocities": null,
 		"song": "No-Villains",
